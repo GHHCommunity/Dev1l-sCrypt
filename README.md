@@ -14,7 +14,7 @@ for python2 then same goes to 2.
  - sudo python Dev1lcrypt.py --help  or  sudo python3 Dev1lcrypt3.py --help #Show this messeage 
  - sudo python Dev1lcrypt.py --backdoor-file=payload.py --file=test.py --output=hacked.py  or  sudo python3 Dev1lcrypt3.py --backdoor-file=payload.py --file=test.py --output=hacked.py    #inject payload.py with  test.py into hacked.py with multi-threading system
  
- # How it work? 
+ # How it works? 
  
  * Encryption module :
  
