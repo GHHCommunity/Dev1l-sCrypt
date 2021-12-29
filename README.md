@@ -6,7 +6,7 @@ If you want to encrypt a python file which runs python3 then you have to run thi
 for python2 then same goes to 2. 
 
 
- * Useage :
+ * Usage :
 
 - sudo  python Dev1lcrypt.py --file=backdoor.py --output=output_backdoor.py # Python2 Code Encryption
 - sudo  python3 Dev1lcrypt3.py --file=backdoor.py --output=output_backdoor.py # Python3 Code Encryption
